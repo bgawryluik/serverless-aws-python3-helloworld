@@ -14,7 +14,7 @@ Finally, this document also assumes you are working on a Mac. I am using a MacBo
 ## Quickstart
 
 ### Serverless Installation
-Install `serverless` as follows:
+Install [serverless](https://serverless.com/) as follows:
 ```
 S brew install serverless
 ```
